@@ -16,7 +16,6 @@ These should be ordered by surname & first name, within each set.
 ===  ========  =======  =============
 Set  Username  Surname  First Name 
 ===  ========  =======  =============
-
 ===  ========  =======  =============
 
 *********
@@ -29,7 +28,6 @@ These should be ordered by team name within set.
 ===  =========  ==========  ========  ========  ========
 Set  Team Name  Maintainer  Member 2  Member 3  Member 4
 ===  =========  ==========  ========  ========  ========
-
 ===  =========  ==========  ========  ========  ========
 
 If you to add or change your name in either of the above lists, 
