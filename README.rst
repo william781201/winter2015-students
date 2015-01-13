@@ -12,12 +12,12 @@ Class Lists
 ***********
 
 
-======  =============
+=======  =============
 Surname     First Name 
-======  =============
+=======  =============
 comp4x  Mouse, Mickey
 4 z     Duck, Donald
-======  =============
+=======  =============
 
 If you have a translation or correction, please fork the repository, clone it
 locally, and then create a new branch (from master) 
