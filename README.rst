@@ -13,7 +13,7 @@ Class Lists
 
 
 ======  =============
-Set     Student Name 
+Surname     First Name 
 ======  =============
 comp4x  Mouse, Mickey
 4 z     Duck, Donald
