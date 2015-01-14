@@ -37,6 +37,7 @@ Set    Username         Surname    First Name
 4R     hodgies          Hodgkinson Sean
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
+40     ttallentire      Tallentire Thomas
 pilot  dpepper          Myers      Don
 =====  ===========      ========   =============
 
