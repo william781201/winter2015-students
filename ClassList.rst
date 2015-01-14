@@ -37,6 +37,7 @@ Set    Username         Surname    First Name
 4R     hodgies          Hodgkinson Sean
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
+4O     MrChimick        Chimick    Michael
 pilot  dpepper          Myers      Don
 =====  ===========      ========   =============
 
