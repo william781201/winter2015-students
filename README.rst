@@ -21,12 +21,12 @@ These should be ordered by surname & first name, within each set.
 Set  Username     Surname   First Name 
 ===  ===========  ========  =============
 4G   w-chiang     Chiang    William
+4G   AndroidAdam  Jesse     Adam
 4G   A00861391    Ji        Jason(Xuanna)
 4G   A00770012    Liu       Ming-Hsuan
 4G   lccool6683   Lo        Clemens
 4G   A00863445    Lockhart  Andrew
 4G   ishpreet3    Rattan    Ishpreet
-4G   AndroidAdam  Jesse     Adam
 ===  ===========  ========  =============
 
 *********
