@@ -32,6 +32,7 @@ Set    Username     Surname   First Name
 4G     ishpreet3    Rattan    Ishpreet
 4G     sstan4411    Stan      Stefan
 4R     aarinsmith   Smith     Aarin
+4R     liusqi       Liu       Songqi
 pilot  dpepper      Myers     Don
 =====  ===========  ========  =============
 
