@@ -17,6 +17,7 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
+
 =====  ===========      ========  =============
 Set    Username         Surname   First Name 
 =====  ===========      ========  =============
@@ -24,15 +25,17 @@ Set    Username         Surname   First Name
 4G     A00791048        Huang     William
 4G     AndroidAdam      Jesse     Adam
 4G     A00861391        Ji        Jason(Xuanna)
-4G     J amesLee92      Lee       James
+4G     JamesLee92       Lee       James
 4G     wono             Lim       Wonho
 4G     A00770012        Liu       Ming-Hsuan
 4G     lccool6683       Lo        Clemens
 4G     A00863445        Lockhart  Andrew
 4G     ishpreet3        Rattan    Ishpreet
 4G     sstan4411        Stan      Stefan
-4R     aarinsmith       Smith     Aarin
+4R     A00862618        Dorsay    Brycen 
 4R     andrewhartline   Hartline  Andrew
+4R     aarinsmith       Smith     Aarin
+4R     bensoer          Soer      Ben
 pilot  dpepper          Myers     Don
 =====  ===========      ========  =============
 
