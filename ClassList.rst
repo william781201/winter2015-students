@@ -11,8 +11,28 @@ See the `RST Specification
 <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#simple-tables>`_ 
 for help with restructured text tables.
 
-To make life easier on you and reduce merge conflicts, I have
-separated the class and team lists.
+**********
+Class List
+**********
+
+These should be ordered by surname & first name, within each set.
+
+=====  ===========  ========  =============
+Set    Username     Surname   First Name 
+=====  ===========  ========  =============
+4G     w-chiang     Chiang    William
+4G     A00791048    Huang     William
+4G     AndroidAdam  Jesse     Adam
+4G     A00861391    Ji        Jason(Xuanna)
+4G     J amesLee92   Lee       James
+4G     wono         Lim       Wonho
+4G     A00770012    Liu       Ming-Hsuan
+4G     lccool6683   Lo        Clemens
+4G     A00863445    Lockhart  Andrew
+4G     ishpreet3    Rattan    Ishpreet
+4G     sstan4411    Stan      Stefan
+pilot  dpepper      Myers     Don
+=====  ===========  ========  =============
 
 *******
 Process

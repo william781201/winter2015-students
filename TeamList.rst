@@ -11,8 +11,17 @@ See the `RST Specification
 <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#simple-tables>`_ 
 for help with restructured text tables.
 
-To make life easier on you and reduce merge conflicts, I have
-separated the class and team lists.
+*********
+Team List
+*********
+
+These should be ordered by team name within set.
+
+
+===  =========  ==========  ========  ========  ========
+Set  Team Name  Maintainer  Member 2  Member 3  Member 4
+===  =========  ==========  ========  ========  ========
+===  =========  ==========  ========  ========  ========
 
 *******
 Process
