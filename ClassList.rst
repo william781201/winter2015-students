@@ -20,6 +20,7 @@ These should be ordered by surname & first name, within each set.
 =====  ===========      ========   =============
 Set    Username         Surname    First Name
 =====  ===========      ========   =============
+4A     p-chan           Chan       Peter
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
 4G     AndroidAdam      Jesse      Adam
