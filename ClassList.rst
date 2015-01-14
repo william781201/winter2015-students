@@ -37,7 +37,7 @@ Set    Username         Surname    First Name
 4R     hodgies          Hodgkinson Sean
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
-4O		roFilip			Gutica		Filip
+4O     roFilip          Gutica     Filip
 pilot  dpepper          Myers      Don
 =====  ===========      ========   =============
 
