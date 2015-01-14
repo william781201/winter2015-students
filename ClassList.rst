@@ -32,7 +32,9 @@ Set    Username     Surname   First Name
 4G     ishpreet3    Rattan    Ishpreet
 4G     sstan4411    Stan      Stefan
 4R     CheeJustin   Chee      Justin
+4R     A00862618    Dorsay    Brycen 
 4R     aarinsmith   Smith     Aarin
+4R     bensoer      Soer      Ben
 pilot  dpepper      Myers     Don
 =====  ===========  ========  =============
 
