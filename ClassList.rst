@@ -17,9 +17,9 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
-=====  ===========  ========  =============
+=====  ===========  ========  =================
 Set    Username     Surname   First Name 
-=====  ===========  ========  =============
+=====  ===========  ========  =================
 4G     w-chiang     Chiang    William
 4G     A00791048    Huang     William
 4G     AndroidAdam  Jesse     Adam
@@ -34,8 +34,9 @@ Set    Username     Surname   First Name
 4R     A00862618    Dorsay    Brycen 
 4R     aarinsmith   Smith     Aarin
 4R     bensoer      Soer      Ben
+4R     chausitinh   Pham      Edwin(Thanh-Chau)
 pilot  dpepper      Myers     Don
-=====  ===========  ========  =============
+=====  ===========  ========  =================
 
 *******
 Process
@@ -56,3 +57,4 @@ Team changes must come from the team repo maintainer.
 
 
 `Jim Parry <jim_parry@bcit.ca>`_
+a
