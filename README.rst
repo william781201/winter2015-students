@@ -17,11 +17,13 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
-===  ========  =======  =============
-Set  Username  Surname  First Name 
-===  ========  =======  =============
-4G   w-chiang  Chiang   William
-===  ========  =======  =============
+===  =========  =======  =============
+Set  Username   Surname  First Name 
+===  =========  =======  =============
+4G   w-chiang   Chiang   William
+4G   A00861391  Ji       Jason(Xuanna)
+4G   A00770012  Liu      Ming-Hsuan
+===  =========  =======  =============
 
 *********
 Team List
