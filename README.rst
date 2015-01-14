@@ -29,6 +29,7 @@ Set  Username     Surname   First Name
 4G   lccool6683   Lo        Clemens
 4G   A00863445    Lockhart  Andrew
 4G   ishpreet3    Rattan    Ishpreet
+4G   sstan4411    Stan      Stefan
 ===  ===========  ========  =============
 
 *********
