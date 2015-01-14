@@ -38,6 +38,7 @@ Set    Username         Surname    First Name
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
 pilot  dpepper          Myers      Don
+4O     3rafanan         Rafanan    Marc
 =====  ===========      ========   =============
 
 *******
