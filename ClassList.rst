@@ -24,7 +24,7 @@ Set    Username     Surname   First Name
 4G     A00791048    Huang     William
 4G     AndroidAdam  Jesse     Adam
 4G     A00861391    Ji        Jason(Xuanna)
-4R	   A00261182    Khan      Shah Newaz
+4R   A00261182    Khan      Shah Newaz
 4G     J amesLee92   Lee       James
 4G     wono         Lim       Wonho
 4G     A00770012    Liu       Ming-Hsuan
