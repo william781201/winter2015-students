@@ -32,7 +32,7 @@ Set    Username     Surname   First Name
 4G     ishpreet3    Rattan    Ishpreet
 4G     sstan4411    Stan      Stefan
 pilot  dpepper      Myers     Don
-4R     nbeebz       Bhatti    Nav
+4R      nbeebz       Bhatti    Nav
 =====  ===========  ========  =============
 
 *******
