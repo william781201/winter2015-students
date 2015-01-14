@@ -17,7 +17,6 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
-
 =====  ===========      ========  =============
 Set    Username         Surname   First Name 
 =====  ===========      ========  =============
@@ -32,6 +31,7 @@ Set    Username         Surname   First Name
 4G     A00863445        Lockhart  Andrew
 4G     ishpreet3        Rattan    Ishpreet
 4G     sstan4411        Stan      Stefan
+4R     nbeebz           Bhatti    Nav
 4R     A00862618        Dorsay    Brycen 
 4R     andrewhartline   Hartline  Andrew
 4R     aarinsmith       Smith     Aarin
