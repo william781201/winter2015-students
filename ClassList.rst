@@ -44,7 +44,8 @@ Set    Username         Surname    First Name
 4O     ttallentire      Tallentire Thomas
 4R     aguilarandres    Aguilar    Andres 
 4R     nbeebz           Bhatti     Nav
-4R     CheeJustin       Chee       Justin 
+4R     CheeJustin       Chee       Justin
+4R     wrdale           Dale       Wesley 
 4R     A00862618        Dorsay     Brycen 
 4R     andrewhartline   Hartline   Andrew
 4R     liusqi           Liu        Songqi
