@@ -56,6 +56,8 @@ Set    Username         Surname    First Name
 4R     CheeJustin       Chee       Justin 
 4R     A00862618        Dorsay     Brycen 
 4R     andrewhartline   Hartline   Andrew
+4R     hodgies          Hodgkinson Sean
+4R     alan-cy-lai      Lai        Alan
 4R     liusqi           Liu        Songqi
 4R     paolomontano     Montano    Paolo
 4R     chausitinh       Pham       Edwin(Thanh-Chau)
