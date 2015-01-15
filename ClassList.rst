@@ -37,6 +37,7 @@ Set    Username         Surname   First Name
 4O     slee-colonel     Lee        Sanders
 4O     calvinrempel     Rempel     Calvin
 4O     FrostByten       Scott      Lewis
+4O     ttallentire      Tallentire Thomas
 4R     aguilarandres    Aguilar   Andres 
 4R     nbeebz           Bhatti    Nav
 4R     CheeJustin       Chee      Justin 
