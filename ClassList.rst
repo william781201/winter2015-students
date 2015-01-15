@@ -44,6 +44,7 @@ Set    Username         Surname    First Name
 4O     Subrosian        Lim        Abel
 4O     GilaGuy          Loho       Melvin
 4O     JMabbott         Mabbott    Joel 
+4O     spelka           Pelka      Sebastian
 4O     3rafanan         rafanan    marc
 4O     calvinrempel     Rempel     Calvin
 4O     FrostByten       Scott      Lewis
