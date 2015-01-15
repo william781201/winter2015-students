@@ -31,6 +31,7 @@ Set    Username         Surname   First Name
 4G     A00863445        Lockhart  Andrew
 4G     ishpreet3        Rattan    Ishpreet
 4G     sstan4411        Stan      Stefan
+4O     FrostByten       Scott      Lewis
 4R     aguilarandres    Aguilar   Andres 
 4R     nbeebz           Bhatti    Nav
 4R     CheeJustin       Chee      Justin 
@@ -67,4 +68,3 @@ Team changes must come from the team repo maintainer.
 
 
 `Jim Parry <jim_parry@bcit.ca>`_
-a
