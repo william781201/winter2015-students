@@ -32,6 +32,7 @@ Set    Username         Surname   First Name
 4G     ishpreet3        Rattan    Ishpreet
 4G     sstan4411        Stan      Stefan
 4O     Jojolagger       Dellow     Alex
+4O     CaKlassen        Klassen    Christofer
 4O     calvinrempel     Rempel     Calvin
 4O     FrostByten       Scott      Lewis
 4R     aguilarandres    Aguilar   Andres 
