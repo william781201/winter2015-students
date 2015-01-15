@@ -34,6 +34,7 @@ Set    Username         Surname   First Name
 4O     Jojolagger       Dellow     Alex
 4O     CaKlassen        Klassen    Christofer
 4O     rhealauzon       Lauzon     Rhea
+4O     slee-colonel     Lee        Sanders
 4O     calvinrempel     Rempel     Calvin
 4O     FrostByten       Scott      Lewis
 4R     aguilarandres    Aguilar   Andres 
