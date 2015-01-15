@@ -17,9 +17,9 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
-=====  ===========      ========  =============
+=====  ==============   ========  =============
 Set    Username         Surname   First Name 
-=====  ===========      ========  =============
+=====  ==============   ========  =============
 4G     w-chiang         Chiang    William
 4G     A00791048        Huang     William
 4G     AndroidAdam      Jesse     Adam
@@ -40,7 +40,7 @@ Set    Username         Surname   First Name
 4R     eko88            Walker    Yasha
 4R     maecst           Yee        Mae
 pilot  dpepper          Myers      Don
-=====  ===========      ========   =============
+=====  ==============   ========   =============
 
 *******
 Process
