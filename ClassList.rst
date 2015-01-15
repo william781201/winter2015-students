@@ -17,9 +17,9 @@ Class List
  
 These should be ordered by surname & first name, within each set.
 
-=====  ==============   ========== =============
+=====  ===============  ========== =============
 Set    Username         Surname    First Name 
-=====  ==============   ========== =============
+=====  ===============  ========== =============
 4B     thunduaga        Qualizza   Christopher
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
@@ -34,7 +34,7 @@ Set    Username         Surname    First Name
 4G     sstan4411        Stan       Stefan
 4O     JnbBrandrick     Brandrick  Julian
 4O     MrChimick        Chimick    Michael
-4O     nightdreamer123  Chu        Jonathan 
+4O     nightdreamer123  Chu        Jonathan
 4O     Jojolagger       Dellow     Alex
 4O     roFilip          Gutica     Filip
 4O     tyler-hlynsky    Hlynsky    Tyler
@@ -43,8 +43,8 @@ Set    Username         Surname    First Name
 4O     rhealauzon       Lauzon     Rhea
 4O     slee-colonel     Lee        Sanders
 4O     Subrosian        Lim        Abel
+4O     mrisq            Lues       Isaac
 4O     GilaGuy          Loho       Melvin
-4O     mrisq            Lues        Isaac
 4O     JMabbott         Mabbott    Joel 
 4O     spelka           Pelka      Sebastian
 4O     3rafanan         rafanan    marc
@@ -70,7 +70,7 @@ Set    Username         Surname    First Name
 4R     eko88            Walker     Yasha
 4R     maecst           Yee        Mae
 pilot  dpepper          Myers      Don
-=====  ==============   ========== =============
+=====  ===============  ========== =============
 
 *******
 Process
