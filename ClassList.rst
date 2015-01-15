@@ -17,20 +17,21 @@ Class List
 
 These should be ordered by surname & first name, within each set.
 
-=====  ==============   ========  =============
-Set    Username         Surname   First Name 
-=====  ==============   ========  =============
-4G     w-chiang         Chiang    William
-4G     A00791048        Huang     William
-4G     AndroidAdam      Jesse     Adam
-4G     A00861391        Ji        Jason(Xuanna)
-4G     JamesLee92       Lee       James
-4G     wono             Lim       Wonho
-4G     A00770012        Liu       Ming-Hsuan
-4G     lccool6683       Lo        Clemens
-4G     A00863445        Lockhart  Andrew
-4G     ishpreet3        Rattan    Ishpreet
-4G     sstan4411        Stan      Stefan
+=====  ==============   ========== =============
+Set    Username         Surname    First Name 
+=====  ==============   ========== =============
+4G     w-chiang         Chiang     William
+4G     A00791048        Huang      William
+4G     AndroidAdam      Jesse      Adam
+4G     A00861391        Ji         Jason(Xuanna)
+4G     JamesLee92       Lee        James
+4G     wono             Lim        Wonho
+4G     A00770012        Liu        Ming-Hsuan
+4G     lccool6683       Lo         Clemens
+4G     A00863445        Lockhart   Andrew
+4G     ishpreet3        Rattan     Ishpreet
+4G     sstan4411        Stan       Stefan
+4O     MrChimick        Chimick    Michael
 4O     nightdreamer123  Chu        Jonathan 
 4O     Jojolagger       Dellow     Alex
 4O     CaKlassen        Klassen    Christofer
@@ -40,22 +41,22 @@ Set    Username         Surname   First Name
 4O     calvinrempel     Rempel     Calvin
 4O     FrostByten       Scott      Lewis
 4O     ttallentire      Tallentire Thomas
-4R     aguilarandres    Aguilar   Andres 
-4R     nbeebz           Bhatti    Nav
-4R     CheeJustin       Chee      Justin 
-4R     A00862618        Dorsay    Brycen 
-4R     andrewhartline   Hartline  Andrew
-4R     liusqi           Liu       Songqi
-4R     paolomontano     Montano   Paolo
-4R     chausitinh       Pham      Edwin(Thanh-Chau)
-4R     arigatou         Sarang    Pouya
-4R     aarinsmith       Smith     Aarin
-4R     bensoer          Soer      Ben
-4R     kitannn          Tan       Henry
-4R     eko88            Walker    Yasha
-4R     maecst           Yee       Mae
-pilot  dpepper          Myers     Don
-=====  ==============   ========  =============
+4R     aguilarandres    Aguilar    Andres 
+4R     nbeebz           Bhatti     Nav
+4R     CheeJustin       Chee       Justin 
+4R     A00862618        Dorsay     Brycen 
+4R     andrewhartline   Hartline   Andrew
+4R     liusqi           Liu        Songqi
+4R     paolomontano     Montano    Paolo
+4R     chausitinh       Pham       Edwin(Thanh-Chau)
+4R     arigatou         Sarang     Pouya
+4R     aarinsmith       Smith      Aarin
+4R     bensoer          Soer       Ben
+4R     kitannn          Tan        Henry
+4R     eko88            Walker     Yasha
+4R     maecst           Yee        Mae
+pilot  dpepper          Myers      Don
+=====  ==============   ========== =============
 
 *******
 Process
