@@ -32,6 +32,7 @@ Set    Username         Surname   First Name
 4G     ishpreet3        Rattan    Ishpreet
 4G     sstan4411        Stan      Stefan
 4R     nbeebz           Bhatti    Nav
+4R     CheeJustin       Chee      Justin 
 4R     A00862618        Dorsay    Brycen 
 4R     andrewhartline   Hartline  Andrew
 4R     paolomontano     Montano   Paolo
