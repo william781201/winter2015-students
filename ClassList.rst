@@ -38,6 +38,7 @@ Set    Username         Surname    First Name
 4O     roFilip          Gutica     Filip
 4O     tyler-hlynsky    Hlynsky    Tyler
 4O     CaKlassen        Klassen    Christofer
+4O     lamckalex        Lam        Alex
 4O     rhealauzon       Lauzon     Rhea
 4O     slee-colonel     Lee        Sanders
 4O     Subrosian        Lim        Abel
