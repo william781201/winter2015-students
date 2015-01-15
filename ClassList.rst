@@ -53,6 +53,7 @@ Set    Username         Surname    First Name
 4O     ttallentire      Tallentire Thomas
 4O     ericytsang       Tsang      Eric
 4R     aguilarandres    Aguilar    Andres 
+4R     TheRocktopus     Banman     Matthew
 4R     nbeebz           Bhatti     Nav
 4R     CheeJustin       Chee       Justin
 4R     wrdale           Dale       Wesley 
