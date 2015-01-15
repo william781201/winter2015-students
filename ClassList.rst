@@ -34,13 +34,14 @@ Set    Username         Surname   First Name
 4R     nbeebz           Bhatti    Nav
 4R     A00862618        Dorsay    Brycen 
 4R     andrewhartline   Hartline  Andrew
+4R     arigatou         Sarang    Pouya
 4R     aarinsmith       Smith     Aarin
 4R     bensoer          Soer      Ben
 4R     kitannn          Tan       Henry
 4R     eko88            Walker    Yasha
-4R     maecst           Yee        Mae
-pilot  dpepper          Myers      Don
-=====  ==============   ========   =============
+4R     maecst           Yee       Mae
+pilot  dpepper          Myers     Don
+=====  ==============   ========  =============
 
 *******
 Process
