@@ -35,6 +35,7 @@ Set    Username         Surname    First Name
 4R     A00862618        Dorsay     Brycen
 4R     andrewhartline   Hartline   Andrew
 4R     hodgies          Hodgkinson Sean
+4R     alan-cy-lai      Lai        Alan
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
 pilot  dpepper          Myers      Don
