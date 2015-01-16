@@ -78,8 +78,9 @@ Set    Username         Surname    First Name
 4R     eko88            Walker     Yasha
 4R     maecst           Yee        Mae
 pilot  dpepper          Myers      Don
-ucosp  djwoods          Woods      David
 UCOSP  ahnh             Ahn        Heesung
+UCOSP  madmax330        Coulibaly  Maxence
+UCOSP  djwoods          Woods      David
 =====  ===============  ========== =============
 
 *******
