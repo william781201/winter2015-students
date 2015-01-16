@@ -20,7 +20,6 @@ These should be ordered by surname & first name, within each set.
 =====  ===============  ========== =============
 Set    Username         Surname    First Name 
 =====  ===============  ========== =============
-02     TamakiSakura     Zeng       Xing
 4B     dbuhler          Buhler     Dan
 4B     fargakrishnanta  Krishnanta Farga
 4B     eleung14         Leung      Edward
@@ -79,6 +78,9 @@ Set    Username         Surname    First Name
 4R     eko88            Walker     Yasha
 4R     maecst           Yee        Mae
 pilot  dpepper          Myers      Don
+UCOSP  ahnh             Ahn        Heesung
+UCOSP  madmax330        Coulibaly  Maxence
+UCOSP  djwoods          Woods      David
 =====  ===============  ========== =============
 
 *******
