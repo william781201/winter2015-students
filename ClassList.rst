@@ -17,9 +17,9 @@ Class List
  
 These should be ordered by surname & first name, within each set.
 
-=====  ===============  ========== =============
+=====  ===============  ========== ==============
 Set    Username         Surname    First Name 
-=====  ===============  ========== =============
+=====  ===============  ========== ==============
 4B     dbuhler          Buhler     Dan
 4B     fargakrishnanta  Krishnanta Farga
 4B     eleung14         Leung      Edward
@@ -27,6 +27,7 @@ Set    Username         Surname    First Name
 4B     thunduaga        Qualizza   Christopher
 4B     SantoTallarico   Tallarico  Santo
 4B     uoi100           Truong     Calvin
+4B     katnapped        Wang       Yu-Hsin (Sean)
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
 4G     AndroidAdam      Jesse      Adam
