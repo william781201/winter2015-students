@@ -24,6 +24,7 @@ Set    Username         Surname    First Name
 4B     eleung14         Leung      Edward
 4B     LuckiiGoggy      Padua      George
 4B     thunduaga        Qualizza   Christopher
+4B     uoi100           Truong     Calvin
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
 4G     AndroidAdam      Jesse      Adam
