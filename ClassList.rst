@@ -22,6 +22,7 @@ Set    Username         Surname    First Name
 =====  ===============  ========== =============
 4B     dbuhler          Buhler     Dan
 4B     eleung14         Leung      Edward
+4B     LuckiiGoggy      Padua      George
 4B     thunduaga        Qualizza   Christopher
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
