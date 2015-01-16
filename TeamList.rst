@@ -18,11 +18,12 @@ Team List
 These should be ordered by team name within set.
 
 
-===  =========  ==================   ===========    ========  ========
-Set  Team Name  Maintainer           Member 2       Member 3  Member 4
-===  =========  ==================   ===========    ========  ========
-4O   Chrea      Christofer Klassen   Rhea Lauzon
-===  =========  ==================   ===========    ========  ========
+===  =============  ==================   ===========    ========  ========
+Set  Team Name      Maintainer           Member 2       Member 3  Member 4
+===  =============  ==================   ===========    ========  ========
+4O   Chrea          Christofer Klassen   Rhea Lauzon
+4O   Marvin Vemple  Calvin Rempel        Marc Vouve
+===  =============  ==================   ===========    ========  ========
 
 *******
 Process
