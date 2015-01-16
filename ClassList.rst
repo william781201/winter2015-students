@@ -20,6 +20,7 @@ These should be ordered by surname & first name, within each set.
 =====  ===============  ========== =============
 Set    Username         Surname    First Name 
 =====  ===============  ========== =============
+4B     lestermo         Aquilario  Lester
 4B     dbuhler          Buhler     Dan
 4B     fargakrishnanta  Krishnanta Farga
 4B     eleung14         Leung      Edward
