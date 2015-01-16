@@ -72,6 +72,7 @@ Set    Username         Surname    First Name
 4R     chausitinh       Pham       Edwin(Thanh-Chau)
 4R     ryansadio        Sadio      Ryan
 4R     arigatou         Sarang     Pouya
+4R     A00897783        Sato       Mao
 4R     aarinsmith       Smith      Aarin
 4R     bensoer          Soer       Ben
 4R     kitannn          Tan        Henry
