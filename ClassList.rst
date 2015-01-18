@@ -28,6 +28,7 @@ Set    Username         Surname    First Name
 4B     thunduaga        Qualizza   Christopher
 4B     SantoTallarico   Tallarico  Santo
 4B     uoi100           Truong     Calvin
+4B     katnapped        Wang       Yu-Hsin (Sean)
 4G     w-chiang         Chiang     William
 4G     A00791048        Huang      William
 4G     AndroidAdam      Jesse      Adam
