@@ -44,6 +44,7 @@ Set    Username         Surname    First Name
 4O     MrChimick        Chimick    Michael
 4O     nightdreamer123  Chu        Jonathan
 4O     Jojolagger       Dellow     Alex
+4O     ManuelGA         Gonzales   Manuel
 4O     roFilip          Gutica     Filip
 4O     tyler-hlynsky    Hlynsky    Tyler
 4O     CaKlassen        Klassen    Christofer
