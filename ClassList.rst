@@ -83,6 +83,7 @@ Set    Username         Surname    First Name
 4R     kitannn          Tan        Henry
 4R     eko88            Walker     Yasha
 4R     maecst           Yee        Mae
+pilot  mcripps          Cripps     Marcus
 pilot  dpepper          Myers      Don
 UCOSP  ahnh             Ahn        Heesung
 UCOSP  madmax330        Coulibaly  Maxence
