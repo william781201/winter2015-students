@@ -21,7 +21,11 @@ These should be ordered by team name within set.
 ===  =============  ==================   ===========    ===============  ============
 Set  Team Name      Maintainer           Member 2       Member 3         Member 4
 ===  =============  ==================   ===========    ===============  ============
-===  ===========    ==================   ===========    ===============  ============
+4O   Chrea          Christofer Klassen   Rhea Lauzon
+4O   Marvin-Vemple  Calvin Rempel        Marc Vouve
+4O   TobyCatApps    Eric Tsang           Alex Lam       Sebastian Pelka  Marc Rafanan
+4Ox  Unicorns       Jeff Baytun          Dan Buhler     Tyler Hlynsky
+===  =============  ==================   ===========    ===============  ============
 
 *******
 Process
