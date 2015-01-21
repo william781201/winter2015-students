@@ -20,10 +20,7 @@ These should be ordered by surname & first name, within each set.
 =====  ===============  ========== =============
 Set    Username         Surname    First Name 
 =====  ===============  ========== =============
-<<<<<<< HEAD
 4A     p-chan           Chan       Peter
-=======
->>>>>>> 9fe5768211e746933c0a71207ad59de3085c4e28
 4B     lestermo         Aquilario  Lester
 4B     dbuhler          Buhler     Dan
 4B     fargakrishnanta  Krishnanta Farga
