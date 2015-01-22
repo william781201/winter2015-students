@@ -2,3 +2,6 @@
 /nbproject/
 /PhpProject1/nbproject/private/
 .idea/
+*/config/development
+*/logs/
+*/cache/
