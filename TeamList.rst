@@ -24,6 +24,7 @@ Set  Team Name         Maintainer           Member 2         Member 3         Me
 4O   Chrea             Christofer Klassen   Rhea Lauzon
 4O   Marvin-Vemple     Calvin Rempel        Marc Vouve
 4O   TobyCatApps       Eric Tsang           Alex Lam         Sebastian Pelka  Marc Rafanan
+4O   Turbo             Melvin Loho          Filip Gutica     Thomas Tallentire
 4Ox  Unicorns          Jeff Baytun          Dan Buhler       Tyler Hlynsky
 4R   Ctrl-Alt-Believe  Paolo Montano        Brycen Dorsay    Justin Chee
 ===  ================  ==================   =============    ===============  ============
