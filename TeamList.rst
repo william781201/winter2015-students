@@ -22,6 +22,7 @@ These should be ordered by team name within set.
 ===  ================  ==================  ==============  ==================  ============
 Set  Team Name         Maintainer          Member 2        Member 3            Member 4
 ===  ================  ==================  ==============  ==================  ============
+4B   Kappa-Industries  Lester Aquilario    Peter Chan      Santo Tallarico     René Ye
 4B   Plenty-of-Geeks   Yu-Hsin Sean Wang   Chris Qualizza  George Padua        Edward Leung
 4B   RPG-Solo-Grinder  Calvin Truong                      
 4O   Chrea             Christofer Klassen  Rhea Lauzon    
