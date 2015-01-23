@@ -22,6 +22,7 @@ These should be ordered by team name within set.
 ===  ================  ==================  ==============  ==================  ============
 Set  Team Name         Maintainer          Member 2        Member 3            Member 4
 ===  ================  ==================  ==============  ==================  ============
+4B   Plenty-of-Geeks   Yu-Hsin Sean Wang   Chris Qualizza  George Padua        Edward Leung
 4B   RPG-Solo-Grinder  Calvin Truong                      
 4O   Chrea             Christofer Klassen  Rhea Lauzon    
 4O   Marvin-Vemple     Calvin Rempel       Marc Vouve     
@@ -29,7 +30,6 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4O   Turbo             Melvin Loho         Filip Gutica    Thomas Tallentire
 4Ox  Unicorns          Jeff Baytun         Dan Buhler      Tyler Hlynsky
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
-4B   Plenty-of-Geeks   Yu-Hsin Sean Wang   Chris Qualizza  George Padua        Edward Leung
 ===  ================  ==================  ==============  =================   ============
 
 
