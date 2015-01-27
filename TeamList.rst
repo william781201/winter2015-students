@@ -25,6 +25,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4Bx  Kappa-Industries  Lester Aquilario    Peter Chan      Santo Tallarico     René Ye
 4B   Plenty-of-Geeks   Yu-Hsin Sean Wang   Chris Qualizza  George Padua        Edward Leung
 4B   RPG-Solo-Grinder  Calvin Truong                      
+4G   GoonSquad         Andrew Lockhart     Roy Banks       William Chiang      James Lee
 4O   Chrea             Christofer Klassen  Rhea Lauzon    
 4O   Marvin-Vemple     Calvin Rempel       Marc Vouve     
 4O   TobyCatApps       Eric Tsang          Alex Lam        Sebastian Pelka     Marc Rafanan
