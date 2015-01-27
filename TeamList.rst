@@ -31,7 +31,7 @@ Set  Team Name         Maintainer          Member 2        Member 3            M
 4O   Turbo             Melvin Loho         Filip Gutica    Thomas Tallentire
 4Ox  Unicorns          Jeff Bayntun        Dan Buhler      Tyler Hlynsky
 4R   Ctrl-Alt-Believe  Paolo Montano       Brycen Dorsay   Justin Chee
-4G	 Team GoonSquad    Andrew Lockhart     Roy Banks       William Chiang      James Lee
+4G   Team GoonSquad    Andrew Lockhart     Roy Banks       William Chiang      James Lee
 ===  ================  ==================  ==============  ==================  ============
 
 
